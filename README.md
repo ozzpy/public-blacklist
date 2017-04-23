@@ -1,5 +1,5 @@
 # Public Blacklist
-Automatically block with iptables all IPs listed on the secthemall public blacklist [https://secthemall.com/blacklist/](https://secthemall.com/blacklist/)
+Automatically block with iptables all IPs listed on the secthemall public blacklist [https://secthemall.com/publicblacklist/](https://secthemall.com/publicblacklist/)
 
 ## Installation
 ```sh
